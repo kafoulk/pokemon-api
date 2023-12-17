@@ -1,0 +1,15 @@
+.listContainer {
+    display:Grid;
+    width:100%;
+    height:100%;
+    justify-content:space-evenly;
+    margin:0 auto;
+
+
+
+}
+
+.image {
+    max-width:200px;
+    margin: 25px;
+}

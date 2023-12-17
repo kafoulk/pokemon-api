@@ -1,0 +1,36 @@
+.contactForm {
+    display:flex;
+    height: 100%;
+    width:100vw;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.contactForm .form {
+    padding:4px;
+    margin-top:100px;
+
+}
+
+.formField {
+    display:flex;
+    flex-direction: column;
+    margin-bottom:24px;
+
+}
+
+.formField label {
+    font-size: 16px;
+    font-weight:bold;
+    margin-bottom: 4px;
+
+}
+
+.formField input {
+    font-size:16px;
+    height: 36px;
+    width:400px;
+    padding:15px 10px;
+
+}

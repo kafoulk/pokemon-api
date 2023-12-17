@@ -1,0 +1,31 @@
+.aboutContent {
+    display:flex;
+    flex-direction:column;
+    margin:0 auto;
+    height: 100%;
+    width:100vw;
+    justify-content:center;
+    align-items:center;
+
+}
+
+
+.aboutContent .logo {
+    height: 100%;
+    width:100vw;
+    background-color: blueviolet;
+}
+
+.aboutContent .text {
+    width: 75%;
+    margin: 0 auto;
+    height:100%;
+    margin-top:50px;
+}
+.aboutContent .textParagraphs {
+    width: 75%;
+    margin: 0 auto;
+    height:100%;
+    margin:12px 0;
+    text-indent: 25px;
+}
